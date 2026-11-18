@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Smart_ATS.BLL
+namespace Smart_ATS.BAL.Contexts
 {
-    public class Class1
+    internal class AppDBCntext
     {
     }
 }
