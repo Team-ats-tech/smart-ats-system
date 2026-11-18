@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Smart_ATS.BAL/Smart_ATS.BAL.csproj" />
+  <Project Path="Smart_ATS.BLL/Smart_ATS.BLL.csproj" />
+  <Project Path="Smart_ATS.PL/Smart_ATS.PL.csproj" />
+</Solution>
