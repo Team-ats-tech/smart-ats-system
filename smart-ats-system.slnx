@@ -1,5 +1,5 @@
 <Solution>
-  <Project Path="Smart_ATS.BLL/Smart_ATS.BLL.csproj" Id="d3cf5d86-0d58-45c6-aba7-de61e49c73cd" />
-  <Project Path="Smart_ATS.DAL/Smart_ATS.DAL.csproj" Id="9fbc20e8-f733-4f5e-9060-fb4c550f6871" />
+  <Project Path="Amart_ATS.DAL/Amart_ATS.DAL.csproj" Id="6251b0d2-126f-43c9-8967-d3f97e938a56" />
+  <Project Path="Smart_ATS.BLL/Smart_ATS.BLL.csproj" Id="59f6f3f2-b1ea-4256-ac01-5b5381f36bfd" />
   <Project Path="Smart_ATS.PL/Smart_ATS.PL.csproj" />
 </Solution>
